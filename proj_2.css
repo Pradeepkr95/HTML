@@ -1,0 +1,14 @@
+li
+{
+	display: inline;
+	padding-right:50px;
+}
+ul li:hover
+{
+	text-decoration: underline;
+	display: :none;
+}
+#par
+{
+	display:block;
+}
