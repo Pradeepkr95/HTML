@@ -2,14 +2,14 @@
 {
 	background-color:#FFF8DC;
 }
-.grid_8 h1
+.grid_12 h1
 {
-	text-align: right;
-	margin-left: 250px; 
-	font-style: georgia;
-background-color: red;
-	text-decoration: underline;
+	text-align: center;
+	margin-right:50px; 
+	font-family:Courgette;
+	font-size: 50px;
 	text-shadow:3px 1px #ffff00;
+
 }
 .grid_6 ul li
 {
@@ -23,7 +23,7 @@ background-color: red;
 }
 .grid_6 ul
 {
-	padding-top: 30px;
+	padding-top: 100px;
 }
 
 .grid_6 a:hover
@@ -33,7 +33,7 @@ background-color: red;
 .grid_4 img
 {
 	
-	padding-bottom:5px;
+	padding-top:-10px;
 	width: 300px;
 	height: 260px;
 }
@@ -49,18 +49,18 @@ background-color: red;
 }
 .j
 {
-width: 400px;
-height: 250px;
+width: 450px;
+height: 270px;
 }
 .m
 {
-width: 400px;
-height: 250px;
+width: 450px;
+height: 270px;
 }
 .s
 {
-width: 400px;
-height: 240px;
+width: 450px;
+height: 270px;
 }
 footer ul li
 {
