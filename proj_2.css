@@ -1,14 +1,115 @@
-li
+.container_12
 {
-	display: inline;
-	padding-right:50px;
+	background-color:#FFF8DC;
 }
-ul li:hover
+.grid_8 h1
 {
+	text-align: right;
+	margin-left: 250px; 
+	font-style: georgia;
+background-color: red;
 	text-decoration: underline;
-	display: :none;
+	text-shadow:3px 1px #ffff00;
 }
-#par
+.grid_6 ul li
 {
-	display:block;
+
+	display: inline;
+}
+.grid_6 ul
+{
+	margin-left: 500px;
+	float: right;
+}
+.grid_6 ul
+{
+	padding-top: 30px;
+}
+
+.grid_6 a:hover
+{
+	background-color: red;
+}
+.grid_4 img
+{
+	
+	padding-bottom:5px;
+	width: 300px;
+	height: 260px;
+}
+.grid_4 p
+{
+	margin-top:-2px;
+	font-style: italic; 
+	background-color:#F5EEF8;
+}
+.grid_12
+{
+	background-color: white; 	
+}
+.j
+{
+width: 400px;
+height: 250px;
+}
+.m
+{
+width: 400px;
+height: 250px;
+}
+.s
+{
+width: 400px;
+height: 240px;
+}
+footer ul li
+{
+	padding-top: 10px;
+	text-align: right;
+	display: inline;
+	
+}
+.grid_12 a:hover
+{
+text-decoration: none;
+}
+footer ul
+{
+	padding-left: 50px;
+	padding-bottom: 10px;
+	float: right;	
+}
+footer .grid_12
+{
+	
+	padding-top: 5px;
+	text-align: right;
+}
+.container_12 .grid_61 .grid_6{
+	background-color: green;
+}
+
+.grid_62 {
+	background-color: red;
+}
+
+.second{
+	display: inline;
+}
+
+.main{
+	background-color: yellow;
+	text-align: center;
+	text-decoration: none;
+	list-style-type: none;
+	background-image: url(http://vectorpage.com/uploads/2013/04/Vintage-Flowers-banner-1.jpg)
+}
+
+ul li{
+	list-style-type: none;
+	display: inline;
+}
+
+#lis{
+	padding-left: 740px;
 }
